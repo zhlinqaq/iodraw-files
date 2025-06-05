@@ -10,7 +10,7 @@
         <mxCell id="MmrAapOKrndiEVz82dY6-2" value="填写用户信息" style="rounded=0;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MmrAapOKrndiEVz82dY6-3" value="" style="rounded=0;strokeWidth=2;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="MmrAapOKrndiEVz82dY6-3" value="提示密码不能为空" style="rounded=0;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="540" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MmrAapOKrndiEVz82dY6-4" value="提示用户名已存在" style="rounded=0;strokeWidth=2;fontSize=12;" vertex="1" parent="1">
