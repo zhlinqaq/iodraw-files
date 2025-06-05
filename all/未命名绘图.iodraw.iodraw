@@ -20,7 +20,7 @@
           <mxGeometry x="340" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MmrAapOKrndiEVz82dY6-6" value="注册成功" style="rounded=0;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="340" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MmrAapOKrndiEVz82dY6-7" value="判断用户是否存在" style="rhombus;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="300" y="260" width="200" height="80" as="geometry" />
